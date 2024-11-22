@@ -12,6 +12,7 @@ Some videos to start
 - [Scaling laws are explained by memorization and not intelligence](https://www.youtube.com/watch?si=OrUlJjJHfI6pzVjO&v=rl7B-LHiaNo&feature=youtu.be)
 - [It's Not About Scale, It's About Abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8)
 - [AGI in 5 Years?](https://www.youtube.com/watch?v=jSDEsvVdL-E)
+- [HybridAGI – Graph-Powered, Self-Programmable AI](https://www.youtube.com/watch?v=6gdYi-UKYTI)
 
 # Papers
 
