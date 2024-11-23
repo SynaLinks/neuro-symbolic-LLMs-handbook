@@ -1,7 +1,15 @@
-# [WIP] neuro-symbolic-LLMs-handbook
-A collection of neuro-symbolic systems, papers and videos
+# neuro-symbolic-LLMs-handbook
+## A collection of neuro-symbolic systems, papers and videos
 
-Make a PR to add more!
+Neuro-symbolic systems represent a sophisticated approach to artificial intelligence (AI) by merging symbolic AI and connectionist (neural network) AI.
+
+Neuro-symbolic AI systems consist of two main components:
+
+- Gradient-Based Learnable Functions (Neural Networks): These components involve neural networks capable of learning through gradients.
+
+- Symbolic Implementation or Specification: This includes functions with a symbolic implementation or, at the very least, a symbolic specification of their functionality.
+
+By integrating symbolic reasoning with neural network learning, these systems excel in both deductive reasoning (logical inference) and inductive learning (pattern recognition).
 
 # Videos
 
@@ -58,8 +66,6 @@ Some videos to start
 ### Libraries for neuro-symbolic Agent building
 
 - [HybridAGI](https://github.com/SynaLinks/HybridAGI)
-- [Llama-index](https://github.com/run-llama/llama_index)
-- [LangGraph](https://github.com/langchain-ai/langgraph)
 
 # Databases & reasoning engines
 
@@ -69,6 +75,7 @@ Some videos to start
 - [FalkorDB](https://github.com/FalkorDB/FalkorDB)
 - [Kuzu](https://github.com/kuzudb/kuzu)
 - [MemGraph](https://github.com/memgraph/memgraph)
+- [Apache SAGE](https://github.com/apache/age)
 
 ## SPARQL/RDF-based
 
