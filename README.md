@@ -24,7 +24,7 @@ Some videos to start
 
 # Papers
 
-## Cognitive Sciences (develomental psychology)
+## Cognitive Sciences (developmental psychology)
 
 - [Core Knowledge](http://cognitionandculture.net/wp-content/uploads/10.1.1.69.4147.pdf)
 - [Core systems of number](http://harvardlds.org/wp-content/uploads/2017/01/feigenson2004-1.pdf)
