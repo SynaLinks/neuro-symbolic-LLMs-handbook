@@ -75,7 +75,7 @@ Some videos to start
 - [FalkorDB](https://github.com/FalkorDB/FalkorDB)
 - [Kuzu](https://github.com/kuzudb/kuzu)
 - [MemGraph](https://github.com/memgraph/memgraph)
-- [Apache SAGE](https://github.com/apache/age)
+- [Apache AGE](https://github.com/apache/age)
 
 ## SPARQL/RDF-based
 
