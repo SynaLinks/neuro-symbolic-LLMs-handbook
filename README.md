@@ -60,12 +60,9 @@ Some videos to start
 
 ### Libraries for Prompt optimization
 
+- [Synalinks](https://github.com/Synalinks/synalinks)
 - [DSPy](https://github.com/stanfordnlp/dspy)
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)
-
-### Libraries for neuro-symbolic Agent building
-
-- [HybridAGI](https://github.com/SynaLinks/HybridAGI)
 
 # Databases & reasoning engines
 
